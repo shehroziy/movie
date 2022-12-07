@@ -1,1 +1,1 @@
-# Kinoteatr for html css js
+# Kinoteatr
